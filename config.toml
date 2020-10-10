@@ -9,6 +9,7 @@ SectionPagesMenu = "main"
 Paginate = 5
 googleAnalytics = "UA-180233307-1"
 enableRobotsTXT = true
+enableEmoji = true
 
 [sitemap]
   changefreq = "monthly"
