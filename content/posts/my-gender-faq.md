@@ -6,7 +6,9 @@ draft: false
 
 {{< figure src="/media/transgender.png" class="fr" >}}
 
-I have gender dysphoria and as a result my gender is fairly unique, a difference that isn't immediately obvious. I love to share and discuss it for a number of reasons. Writing helps me organize my thoughts and it's nice to try to get it all down in one place. I would love to talk more if you get all the way through.
+I have gender dysphoria and as a result my gender is fairly unique, a difference that isn't immediately obvious. In fact, I believe it's likely that each of us has a more unique gender than we understand, but I'll get into that in the final section. i
+
+I enjoy sharing and discussing my gender and am glad to talk to anyone about it, although I'd prefer if you read some of this first. Writing helps me organize my thoughts and it's nice to try to get it all down in one place.
 
 ## Why did I come out?
 
@@ -102,3 +104,6 @@ If I could have a time machine and have someone “correct” my gender dysphori
 
 If I had a time machine and I could make public opinions and our culture more accepting and understanding that gender can be more like eye color or skin color, would I? Yes! My goal in sharing this is with the hope that it might help our current and future generations in just that way.
 
+## More Questions?
+
+In some ways, this covered a lot, and in others, it's really just a scratch on the surface. If you made it this far and still have questions, thoughts, or contradictory evidence, please let me know. As I said in the beginning, I love to talk about this stuff.
