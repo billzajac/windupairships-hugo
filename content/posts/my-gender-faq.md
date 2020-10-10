@@ -113,8 +113,9 @@ In some ways, this covered a lot, and in others, it's really just a scratch on t
 An intro to the concepts of transition: https://ok2bme.ca/resources/kids-teens/trans-resources/
 
 Lots of trans resources and information
+* https://hues.xyz/
 * https://www.glaad.org/transgender/resources
 * https://www.reddit.com/r/MtF/
 
-{{< figure src="/media/Genderbread-Person-v4-Poster.png" link="https://www.genderbread.org/resource/genderbread-person-v4-0" >}}
+{{< figure src="/media/Genderbread-Person-v4-Poster.png" link="https://www.genderbread.org" >}}
 
