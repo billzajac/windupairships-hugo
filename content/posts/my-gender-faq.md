@@ -6,7 +6,7 @@ draft: false
 
 {{< figure src="/media/transgender.png" class="fr" >}}
 
-I have gender dysphoria and as a result my gender is fairly unique a difference that isn't immediately obvious. I love to share and discuss it for a number of reasons. Writing helps me organize my thoughts and it's nice to try to get it all down in one place. I would love to talk more if you get all the way through.
+I have gender dysphoria and as a result my gender is fairly unique, a difference that isn't immediately obvious. I love to share and discuss it for a number of reasons. Writing helps me organize my thoughts and it's nice to try to get it all down in one place. I would love to talk more if you get all the way through.
 
 ## Why did I come out?
 
