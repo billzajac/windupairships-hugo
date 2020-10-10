@@ -9,6 +9,8 @@ Primary Tech
 * https://github.com/
 * https://analytics.google.com/
 
-The nice SVG logo was made quickly with
+The SVG logo was made quickly with
 * https://inkscape.org/
 
+The favicon with
+* https://favicon.io/favicon-converter/

@@ -16,9 +16,9 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  favicon = ""
+  favicon = "/images/favicon/favicon.ico"
   site_logo = "/images/windupairships-logo.svg"
-  description = "The last theme you'll ever need. Maybe."
+  description = "Another Unique Consciousness Floating Through Life"
   facebook = ""
   twitter = ""
   instagram = ""
