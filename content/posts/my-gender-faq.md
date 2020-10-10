@@ -6,7 +6,7 @@ draft: false
 
 {{< figure src="/media/transgender.png" class="fr" >}}
 
-I have gender dysphoria and as a result my gender is fairly unique, a difference that isn't immediately obvious. In fact, I believe it's likely that each of us has a more unique gender than we understand, but I'll get into that in the final section. i
+I have gender dysphoria and as a result my gender is fairly unique, a difference that isn't immediately obvious. In fact, I believe it's likely that each of us has a more unique gender than we understand, but I'll get into that in the final section.
 
 I enjoy sharing and discussing my gender and am glad to talk to anyone about it, although I'd prefer if you read some of this first. Writing helps me organize my thoughts and it's nice to try to get it all down in one place.
 
