@@ -1,14 +1,18 @@
 ---
 title: "My Gender FAQ"
 date: 2020-10-10T07:36:25-07:00
-draft: false
+description: My thoughts and experience on my gender
+menu: main
+
 ---
 
 {{< figure src="/media/transgender.png" class="fr" >}}
 
 I have gender dysphoria and as a result my gender is fairly unique, a difference that isn't immediately obvious. In fact, I believe it's likely that each of us has a more unique gender than we understand, but I'll get into that in the final section.
 
-I enjoy sharing and discussing my gender and am glad to talk to anyone about it, although I'd prefer if you read some of this first. Writing helps me organize my thoughts and it's nice to try to get it all down in one place.
+I enjoy sharing and discussing my gender and am glad to talk to anyone about it, although I'd prefer if you read some of this first.
+
+{{< table_of_contents >}}
 
 ## Why did I come out?
 
@@ -41,7 +45,7 @@ I recall being maybe 5 or 6 and my grandma laying on the foot of the bed with by
 
 As a kid, I was pretty OCD about everything. I don’t know if this was related and possibly a side effect, or if it was something independent. When I learned about drugs and alcohol, I made an explicit connection between the danger of losing control and of losing my secret, and I had a profound fear of them. My fear was that I would slip up or make a mistake. I would destroy myself and the years I had spent building up this image of me as a boy or a man. The first time I tried alcohol or weed was after I was 21. At that point, I had an understanding of the LGB community and had some friends. Many were still unfriendly to the idea of adding bisexuals to the organization, and it seemed like none were interested in having what were called transexuals to the group any time soon. Also, there didn’t seem to be a clear understanding of what transexual meant, because it was assumed that sexual orientation was tied to gender, and it also sometimes included the term transvestite (which was the term used for someone who would cross-dress).
 
-## Why did I wait until I was 44 to come out?
+## Why did I wait so long to come out?
 
 Technically, I came out to my first serious long-term girlfriend after college when I was 21. I also came out to my doctor, once I was off of my parents insurance. He became visibly intensely uncomfortable and told me never to bring it up again. I became extremely embarrassed and decided I should continue to keep it to myself for the rest of my life. The tough part is that I hate secrets. Admittedly Silence of the Lambs and the fictional psychotic transexual serial killer Buffalo Bill was still trending strong in the zeitgeist. Not wanting to be associated one fucking bit with that (I was called Bill and I was from Buffalo) helped me to keep my secret for another couple of decades.
 
