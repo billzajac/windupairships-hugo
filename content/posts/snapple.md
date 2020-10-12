@@ -3,7 +3,7 @@ title: "Snapple"
 featured_image: "media/snapple.jpg"
 omit_header_text: true
 date: 2020-10-11T22:36:17-07:00
-draft: false
+draft: true
 tags: [stony brook]
 
 ---
