@@ -3,6 +3,7 @@ title: "My Gender FAQ"
 date: 2020-10-10T07:36:25-07:00
 description: My thoughts and experience on my gender
 menu: main
+tags: [gender]
 
 ---
 

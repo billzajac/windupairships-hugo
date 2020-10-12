@@ -2,6 +2,8 @@
 title: "Moving On"
 date: 2020-10-11T13:17:28-07:00
 draft: false
+tags: [relationships]
+
 ---
 
 Relationships are work. Our situations and environments change. We change. Communication requires time, listening and observation, thinking, and empathy. And inevitably, our relationships change. I don’t like the terms better or worse. If we want a dichotomy, maybe the terms closer and more distant, but even those are so nuanced and can encompass physical, emotional, intellectual attributes.

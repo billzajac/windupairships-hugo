@@ -2,6 +2,8 @@
 title: "Can You Define Biological Sex?"
 date: 2020-10-10T13:44:25-07:00
 draft: false
+tags: [gender]
+
 ---
 
 I just read the following interesting and well thought out article.
