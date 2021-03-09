@@ -2,6 +2,7 @@
 title: "Tepezcohuite Part 1"
 date: 2021-03-07T20:52:28-08:00
 draft: false
+summary: There was a popping sound as the glass pill cracked and a large curved shard fell. The viscous red, yellow, and orange blood flowed out over the broken pieces and began to fold and mix and spin within itself. At once, I was both worried the glass might hurt me while also knowing I was the glass. This could not be undone.
 ---
 
 {{< figure src="/media/rape.png" class="fr" >}}
@@ -13,7 +14,7 @@ Written starting: 2021-02-06 00:46
 
 ## The Middle
 
-There was a popping sound as the glass pill cracked and a large curved shard fell. The viscous red, yellow, and orange blood flowed out over the broken pieces and began to fold and mix and spin within itself. At once, I was both worried the glass might hurt me while also knowing I was the glass. This act could not be undone. I am destroyed. I am undone. That was my life. The glass was broken and could not be repaired.
+There was a popping sound as the glass pill cracked and a large curved shard fell. The viscous red, yellow, and orange blood flowed out over the broken pieces and began to fold and mix and spin within itself. At once, I was both worried the glass might hurt me while also knowing I was the glass. This could not be undone. I am destroyed. I am undone. That was my life. The glass was broken and could not be repaired.
 
 Her voice, as imperfect as the same cracked glass, permeated as a warm iron taste. Did the music create the current and flow, or was it the flow that created the music? The break was the big bang. Not as a metaphor, but literally. Destruction is the beginning, and time-space is the music and the inter-flowing of existence. Reality is the mess, or at least is part of it. Everything was indistinguishable. "Todo es amor", she sang. As she sang it again, again popped the glass in a way that could never be undone or redone. Annihilation is a consequence of existence. A beginning can only exist with an ending.
 
@@ -70,4 +71,6 @@ His wife brought me a glass of water. I asked if it was ok for me to inhale the 
 Rex stood up and told me I did a good job and that we had definitely taken a layer off. Sam said that she had gotten a picture of me retching some blood while I was purging. I wondered if it was maybe just the color of the rapé mixed with my phlegm, but I wasn’t curious enough to ask. I also no longer had the desire to talk. I felt light and like I was on my way to something important.
 
 The tepezcohuite shamans were a husband and wife team. They, along with their kids, seemed to be the other inhabitants of this small complex. They needed a bit more time to prepare, so Sam and I sat back down on the bench for a bit to wait.
+
+[Tepezcohuite Part 2]({{< relref path="tepezcohuite-part-2.md" >}})
 
