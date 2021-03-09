@@ -1,7 +1,7 @@
 ---
 title: "Tepezcohuite Part 2"
 date: 2021-03-08T21:06:19-08:00
-draft: true
+draft: false
 ---
 
 After maybe 10 minutes of moving around inside their small house, they came out and greeted us. There were not many words. We walked out the gate and down the dirt road that led deeper into the jungle. I could feel the hot sun burning down on my neck as we walked along the dirt tracks. I felt a bit anxious and excited and I held Sam’s hand as we walked. Since we couldn’t both fit in one of the tracks, I was walking through the weeds in the middle of the road. The jungle was sparse at the beginning, and as we eventually turned left, the foliage became more dense. We walked right past a small cenote on our right that I didn’t notice until the walk back. The troop was the husband and wife, a white bounding dog of maybe a year old, and two boys and the baby slung across mom’s chest. The baby was maybe about a year old and toggled from bright-eyed and alert to completely passed out.
