@@ -42,4 +42,4 @@ If considering time, the time before I existed is just as meaningful as the time
 
 Todo es amor
 
-[Tepezcohuite Part 3]({{< relref path="tepezcohuite-part-3.md" >}})
+Continued ...
