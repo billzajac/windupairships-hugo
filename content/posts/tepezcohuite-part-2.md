@@ -2,9 +2,14 @@
 title: "Tepezcohuite Part 2"
 date: 2021-03-08T21:06:19-08:00
 draft: false
+summary: I was here for experience, but I could never be out of connection. I was here for love and experience. I am separate and I am together. Todo es amor. Everything was still a mess.
 ---
 
 {{< figure src="/media/tepez.png" class="fr" >}}
+
+{{< table_of_contents >}}
+
+## Big Medicine
 
 After maybe 10 minutes of moving around inside their small house, they came out and greeted us. There were not many words. We walked out the gate and down the dirt road that led deeper into the jungle. I could feel the hot sun burning down on my neck as we walked along the dirt tracks. I felt a bit anxious and excited. Holding Sam’s hand as we walked helped keep me grounded. Since we couldn’t both fit in one of the tracks, I was walking through the weeds in the middle of the road. The jungle was sparse at the beginning, and as we eventually turned left, the foliage became more dense. We walked right past a small cenote on our right that I didn’t notice until the walk back. The troop was the husband and wife, a bounding black dog, and two boys and the baby slung across mom’s chest. The baby was maybe about a year old and toggled from bright-eyed and alert to completely passed out.
 
@@ -20,6 +25,8 @@ Rex had told me before to inhale and hold for 15 seconds. I had smoked DMT from 
 
 I experienced an instant of fear and regret, like the moment the rollercoaster has just passed the high point and you feel the fall of that first big dip that leaves your stomach behind. There would be no undoing this. It is difficult to convey the speed at which this all happened. I heard the pop and crack of glass. In front of me, and just “of” me was a large glass pill. I can’t say it was floating in air or in darkness, because there was no air and there was no “nothing” outside of it. This pill was everything. It is everything. Todo. The crack was terrifying. It went through me. And the contents spilled out making a mess. There was no negative connotation to this mess other than that it was the end and it could not be undone. I still carried residual feelings and as I felt the crack, I had a strong sense of unease.
 
+## Death as Birth
+
 I can describe the crack and I can describe the initial state of the colors, but I can only describe the first moment of the flow. After that, it was too loud. It was too messy and complex. It was too intricate. It was too much. I had a desire to process it, but now that I am cracked, I can no longer be whole. In the middle of being everything, there was nothing to process. Not as I was. Everything had become existence. Experience. Flow. Even now, my intellect knows that I always am whole and can be whenever I choose. It’s always there. Here. Words, or at least words that flow in any logical or communicable fashion cannot describe how everything is spilled. And there is also no need. It’s literally all here and always here, but I can only feel it when everything else has been removed from what I historically refer to as me. Maybe conscious existence connected to nothing is the only way to experience existence as everything. As I re-read that last sentence, I see no value in trying to communicate this further.
 
 Through the mess came the possibility of distinction. One of the first distinctions I held was the ability to follow time, but even with time, time was not simple. It was everywhere and so fast and chaotic. I tried grasping pieces of it. I touched molten rock and jungle and creatures and food and life and death and growth and overgrowth. The connections flowed in so many directions and directions moved and flowed in so many directions. It was not what I wanted. It was all moving so fast and I wanted it to stop. I picked a point in the flow and aimed for it. I picked any point. I picked specifically this point. I was attracted. Focusing on one point wasn’t enough though. It was still too much, and perhaps trying to focus made it more. I was still in so many places and things and times and creatures and feelings. I said, “I want it to stop”. The ever spinning flow and churn. I wasn’t exactly every point, but by focusing, I found that I was more. It was not what I wanted. According to Sam, I said those words out loud as well. “I want it to stop”.
@@ -32,6 +39,8 @@ I was defining myself into existence and the beautiful voice of Maria was callin
 
 This experience is the limitation to my interpretation of signals, given a handful of senses and organs to interpret. Of course, it’s not just that. That same part that interprets can also imagine and further reach out and distil or create. I created this life in which I believe I am communicating with others. I used to think that it was a miracle that any two beings could ever communicate, given that we are all coming from our own independent black boxes. Now I recognize how absurd that is. The notion that any two things could ever not communicate is possibly the most interesting creation of my imagination.
 
+## The Voyage as Mind
+
 I recognized the place. I recognized the faces. I knew I had landed exactly where I wanted. I had created such a beautiful life and world and universe. I lay down in the dirt and looked up at the clouds through the green treetops. I looked over at Sam. It was amazing how far away she looked. I saw the dog, Negro, rolling around and playing in the ashes. I thought about words. Negro means black in Spanish. I thought, maybe now she should be called Blanco, or white. I squished the dirt into my hands and through my fingers as I lay there. I was replaying all of it. I saw the beginning of the universe and ran through it many times. Possibly once for each time she sang “todo es amor”, which would have been dozens for the 10 to 20 minutes of the experience. Each run through wasn’t the universe restarting though. It was always playing. It always is being played at every moment.
 
 It was at then that I realized I no longer had anything to worry about. Anything at all. Death had become completely meaningless. I am and I always will be. This little flow is a beautiful one that I’ve chosen. It could never be undone. Every choice I could ever make was moot. They are all being made in every possible way. I understood a notion of rebirth in a way I had never considered, or at least not in a way that I had truly and deeply felt and experienced. It was not an intellectual knowing, but a “knowing” knowing. More like having been there, but instead of past tense, present. Words are about to fail here, but I have been this life forever and will be this life forever. Every moment of it. It cannot die. The idea is silly. This present moment is maybe like a painting. And there are countless paintings in apparent sequence. They have always had a beginning and they have always had an end. They will always exist exactly as they are.
@@ -42,4 +51,4 @@ If considering time, the time before I existed is just as meaningful as the time
 
 Todo es amor
 
-Continued ...
+[Tepezcohuite Part 3]({{< relref path="tepezcohuite-part-3.md" >}})

@@ -2,7 +2,7 @@
 title: "Tepezcohuite Part 1"
 date: 2021-03-07T20:52:28-08:00
 draft: false
-summary: There was a popping sound as the glass pill cracked and a large curved shard fell. The viscous red, yellow, and orange blood flowed out over the broken pieces and began to fold and mix and spin within itself. At once, I was both worried the glass might hurt me while also knowing I was the glass. This could not be undone.
+summary: There was a popping sound as the glass pill cracked and a large curved shard fell. The viscous red, yellow, and orange blood flowed out over the broken pieces and began to fold and mix and spin within itself. ... This could not be undone.
 ---
 
 {{< figure src="/media/rape.png" class="fr" >}}
