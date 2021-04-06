@@ -10,6 +10,8 @@ draft: false
 
 It feels unlikely that there aren’t beings who are able to perceive and manipulate more than just the three dimensions that we are aware of. It’s interesting to consider what a relationship might look like for our 3D universe as part of something with more. What are the possible touch points and surfaces? What might interactions look like for us and for “them”. I used quotes for “them” because perhaps our entire existence is a translation or mapping of higher dimensions onto lower dimensions, like a shadow of a cube or a balloon on a sheet of paper.
 
+The picture above is a [tesseract](https://en.wikipedia.org/wiki/Tesseract). A tesseract is the four-dimensional analogue of the cube; the tesseract is to the cube as the cube is to the square. Just as the surface of the cube consists of six square faces, the hypersurface of the tesseract consists of eight cubical cells. The animation demonstrates a simple rotation of the tesseract.
+
 I’m thinking about the effects their butterfly wings might manifest in this more restrictive realm we can perceive, understand, remember, and communicate.
 
 Would there be any reason for them to be more enlightened than us? They may be more likely to be able to see us. Would they see or understand how we struggle? Maybe they give us no more thought than we give our reflections in mirrors.
