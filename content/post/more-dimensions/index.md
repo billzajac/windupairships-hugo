@@ -1,10 +1,10 @@
 ---
 title: "More Dimensions"
 date: 2021-04-06T11:40:08-07:00
-draft: false
+image: glass_tesseract_animation.gif
 ---
 
-{{< figure src="/media/glass_tesseract_animation.gif" class="fr" >}}
+{{< figure src="glass_tesseract_animation.gif" class="fr" >}}
 
 ## More Than This
 
@@ -35,7 +35,7 @@ Because it’s all so dynamic, the context of the interaction is so important on
 
 If I assume our laws of physics would need to apply there equally, two dimensions seems like an inhospitable number for life. I can’t imagine enough complexity to sustain something we could consider alive or at least not “intelligent”. Then again, I think it would be currently impossible for us to detect in almost every situation without either luck, and or an abundance of these 2D universes floating around. Wouldn’t it? I’ll leave that as a fun thought exercise for physicists, philosophers, or explorers.
 
-{{< figure src="/media/gais91hui0q31.gif" class="fr" >}}
+{{< figure src="gais91hui0q31.gif" class="fr" >}}
 
 Three dimensions seems very reasonable for life. Although, maybe that’s only because I know we’re here. I don’t think I have enough data to consider whether life in dimensions other than three is reasonable or sustainable. Let’s consider for a moment that it is. In fact, let’s say there are a number of higher dimensions and intelligent life that can experience and manipulate things in these additional dimensions. In addition to intelligent life, they may also have their own physics, which could be a superset of ours, a subset of ours, completely independent, or share some aspects. To us, their physics could appear as irreconcilable as general relativity seems to be with quantum mechanics.
 

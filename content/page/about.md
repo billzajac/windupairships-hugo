@@ -1,10 +1,18 @@
 ---
-title: "My Gender FAQ"
-date: 2020-10-10T07:36:25-07:00
+title: My Gender FAQ
 description: My thoughts and experience on my gender
-menu: main
+date: '2020-10-10'
+aliases:
+  - about-us
+  - about-hugo
+  - contact
+license: CC BY-NC-ND
+lastmod: '2020-10-09'
+menu:
+    main: 
+        weight: -90
+        pre: user
 tags: [gender]
-
 ---
 
 {{< figure src="/media/transgender.png" class="fr" >}}
