@@ -59,7 +59,7 @@ I breathe me in
 We enjoy our presence
 Feeling ecstasy and joy,
 hope and fear,
-the sadness and loss,
+sadness and loss,
 exhaustion and peace
 A deep oxytocin peace
 
