@@ -1,7 +1,9 @@
 ---
 title: "Tepezcohuite Part 3"
 date: 2021-03-28T13:14:38-07:00
-tags: [tepezcohuite psychedelic]
+tags: 
+  - tepezcohuite
+  - psychedelic
 image: negro-the-dog.png
 summary: I knew all along that it was me, but had fun pretending that I didn’t know. Since then, I am already now deep into this beautiful mess of “here”, and that knowledge is still in me. The knowledge that I’m pretending this is real.
 ---

@@ -1,7 +1,9 @@
 ---
 title: "Tepezcohuite Part 2"
 date: 2021-03-08T21:06:19-08:00
-tags: [tepezcohuite psychedelic]
+tags: 
+  - tepezcohuite
+  - psychedelic
 image: tepez.png
 summary: I was here for experience, but I could never be out of connection. I was here for love and experience. I am separate and I am together. Todo es amor. Everything was still a mess.
 ---

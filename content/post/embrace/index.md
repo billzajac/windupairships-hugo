@@ -1,7 +1,8 @@
 ---
 title: "Embrace"
 date: 2021-04-09T10:56:20-07:00
-tags: [poem]
+tags: 
+  - poem
 image: embrace.png
 ---
 
