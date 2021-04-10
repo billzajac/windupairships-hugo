@@ -6,8 +6,6 @@ tags:
 image: embrace.png
 ---
 
-## Embrace
-
 ### From the past
 
 In 300 years, you and I will both be
