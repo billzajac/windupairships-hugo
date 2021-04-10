@@ -65,3 +65,5 @@ exhaustion and peace
 A deep oxytocin peace
 
 Todo es amor
+
+-- Inspired by [Thich Nhat Hanh](https://plumvillage.org/about/thich-nhat-hanh/biography/)

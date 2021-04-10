@@ -14,3 +14,10 @@ The SVG logo was made quickly with
 
 The favicon with
 * https://favicon.io/favicon-converter/
+
+Theme
+* https://github.com/CaiJimmy/hugo-theme-stack
+
+    git clone https://github.com/CaiJimmy/hugo-theme-stack/ themes/hugo-theme-stack
+    git submodule add https://github.com/CaiJimmy/hugo-theme-stack/ themes/hugo-theme-stack
+
