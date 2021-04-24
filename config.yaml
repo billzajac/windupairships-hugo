@@ -10,6 +10,8 @@ disqusShortname: hugo-theme-stack
 # GA Tracking ID
 googleAnalytics: UA-180233307-1
 
+enableEmoji: true
+
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, es, de, nl
 DefaultContentLanguage: en
