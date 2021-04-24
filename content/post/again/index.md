@@ -19,7 +19,7 @@ As if answering a call
 “I’d do it all over”,
 I know I’ve heard said
 That wish has been granted
-Opaque lies ahead
+Yet opaque lies ahead
 
 A gift I have now,
 which I certainly had then
