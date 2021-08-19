@@ -1,4 +1,5 @@
-This is the static site generator content for https://windupairships.com
+Hugo powered static site generator content for https://windupairships.com
+Repo: https://github.com/billzajac/windupairships-hugo
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b1e4b805-fa98-42e8-8e8b-337236abbdae/deploy-status)](https://app.netlify.com/sites/happy-hodgkin-40cf1d/deploys)
 
