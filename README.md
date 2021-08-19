@@ -21,3 +21,11 @@ Theme
     git clone https://github.com/CaiJimmy/hugo-theme-stack/ themes/hugo-theme-stack
     git submodule add https://github.com/CaiJimmy/hugo-theme-stack/ themes/hugo-theme-stack
 
+### Hugo commands
+
+    hugo new post/hello-beautiful/index.md
+    hugo server -D
+
+### Images
+
+* https://scop.io/search
