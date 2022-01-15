@@ -45,36 +45,42 @@ image: banner.png
 * Series: Cradle-to-Grace 02/07
 * Title: The Rise
 * EXIF Description: Frenetically consuming it all [gb]
+
 {{< figure src="02-the-rise.png" link="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/25495030103325059205924427647754171002410076829904818738352708122893615104001" >}}
 
 ---
 * Series: Cradle-to-Grace 03/07
 * Title: Awareness
 * EXIF Description: Stop and the truth will cease evasion [rkcrevrapr]
+
 {{< figure src="03-awareness.png" link="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/25495030103325059205924427647754171002410076829904818738352708123993126731777" >}}
 
 ---
 * Series: Cradle-to-Grace 04/07
 * Title: Duality
 * EXIF Description: My constant search for food then meaning [gur]
+
 {{< figure src="04-duality.png" link="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/25495030103325059205924427647754171002410076829904818738352708125092638359553" >}}
 
 ---
 * Series: Cradle-to-Grace 05/07
 * Title: Non-duality
 * EXIF Description: Satiation brings only temporary peace [znwrfgl]
+
 {{< figure src="05-non-duality.png" link="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/25495030103325059205924427647754171002410076829904818738352708126192149987329" >}}
 
 ---
 * Series: Cradle-to-Grace 06/07
 * Title: (r)Evolution
 * EXIF Description: Searching occupies body and mind [bs]
+
 {{< figure src="06-evolution.png" link="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/25495030103325059205924427647754171002410076829904818738352708127291661615105" >}}
 
 ---
 * Series: Cradle-to-Grace 07/07
 * Title: Grace
 * EXIF Description: Stillness [nyy]
+
 {{< figure src="07-grace.png" link="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/25495030103325059205924427647754171002410076829904818738352708128391173242881" >}}
 
 
