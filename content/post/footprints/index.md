@@ -9,6 +9,6 @@ image: helix-tree.png
 
 {{< figure src="helix-tree.png" class="fr" >}}
 
-Do footprints in hearts or minds count?
+And what of a footprint on a heart or a mind?
 
 
