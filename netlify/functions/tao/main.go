@@ -14,6 +14,8 @@ import (
 
 func handler(ctx context.Context, request events.APIGatewayProxyRequest) (*events.APIGatewayProxyResponse, error) {
 	t := time.Now()
+	// now := t.Format("2006-01-02 15:04:05")
+
 	tetragrams := []string{"𝌆", "𝌇", "𝌈", "𝌉", "𝌊", "𝌋", "𝌌", "𝌍", "𝌎", "𝌏", "𝌐", "𝌑", "𝌒", "𝌓", "𝌔", "𝌕", "𝌖", "𝌗", "𝌘", "𝌙", "𝌚", "𝌛", "𝌜", "𝌝", "𝌞", "𝌟", "𝌠", "𝌡", "𝌢", "𝌣", "𝌤", "𝌥", "𝌦", "𝌧", "𝌨", "𝌩", "𝌪", "𝌫", "𝌬", "𝌭", "𝌮", "𝌯", "𝌰", "𝌱", "𝌲", "𝌳", "𝌴", "𝌵", "𝌶", "𝌷", "𝌸", "𝌹", "𝌺", "𝌻", "𝌼", "𝌽", "𝌾", "𝌿", "𝍀", "𝍁", "𝍂", "𝍃", "𝍄", "𝍅", "𝍆", "𝍇", "𝍈", "𝍉", "𝍊", "𝍋", "𝍌", "𝍍", "𝍎", "𝍏", "𝍐", "𝍑", "𝍒", "𝍓", "𝍔", "𝍕", "𝍖"}
 
 	// choose random from [0,81)
@@ -22,13 +24,12 @@ func handler(ctx context.Context, request events.APIGatewayProxyRequest) (*event
 		panic(err)
 	}
 
-	// have to convert bigint back to int64 to use in index
-	tetragram := tetragrams[randInt.Int64()]
+	// Have to convert bigint back to int64 to use in index
 	// Remember to add 1 here because the slice starts with position 0
-	tetragram_int := randInt.Int64() + 1
-	// now := t.Format("2006-01-02 15:04:05")
-
-	body := fmt.Sprintf("%d %s %s\n", tetragram_int, tetragram, t)
+	tetragram_num := randInt.Int64() + 1
+	tetragram := tetragrams[randInt.Int64()]
+	link := fmt.Sprintf("<a href='https://terebess.hu/english/tao/Wing.html#Kap%02d'>%02d %s</a>", tetragram_num, tetragram_num, tetragram)
+	body := fmt.Sprintf("%s %s\n", link, t)
 	fmt.Println("This message will show up in the CLI console.")
 
 	return &events.APIGatewayProxyResponse{
