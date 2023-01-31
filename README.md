@@ -30,3 +30,22 @@ Theme
 ### Images
 
 * https://scop.io/search
+
+
+### Netlify Function
+
+* https://docs.netlify.com/functions/build/?fn-language=go
+
+Create with
+
+    ntl functions:create --name tao
+
+Get deps
+
+    go mod tidy
+
+Test service with
+
+    netlify functions:serve
+
+Serves from /.netlify/functions/tao
