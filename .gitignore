@@ -10,3 +10,6 @@ hugo.linux
 
 # tmp files
 *~
+
+# Local Netlify folder
+.netlify

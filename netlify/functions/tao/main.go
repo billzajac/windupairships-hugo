@@ -1,18 +1,18 @@
 package main
 
 import (
+	"context"
 	"fmt"
+
 	"time"
 	"crypto/rand"
 	"math/big"
+
 	"github.com/aws/aws-lambda-go/events"
 	"github.com/aws/aws-lambda-go/lambda"
 )
 
-// This will deploy to /.netlify/functions/tao
-// https://docs.netlify.com/functions/build/?fn-language=go
-
-func handler(request events.APIGatewayProxyRequest) (*events.APIGatewayProxyResponse, error) {
+func handler(ctx context.Context, request events.APIGatewayProxyRequest) (*events.APIGatewayProxyResponse, error) {
 	t := time.Now()
 	tetragrams := []string{"𝌆", "𝌇", "𝌈", "𝌉", "𝌊", "𝌋", "𝌌", "𝌍", "𝌎", "𝌏", "𝌐", "𝌑", "𝌒", "𝌓", "𝌔", "𝌕", "𝌖", "𝌗", "𝌘", "𝌙", "𝌚", "𝌛", "𝌜", "𝌝", "𝌞", "𝌟", "𝌠", "𝌡", "𝌢", "𝌣", "𝌤", "𝌥", "𝌦", "𝌧", "𝌨", "𝌩", "𝌪", "𝌫", "𝌬", "𝌭", "𝌮", "𝌯", "𝌰", "𝌱", "𝌲", "𝌳", "𝌴", "𝌵", "𝌶", "𝌷", "𝌸", "𝌹", "𝌺", "𝌻", "𝌼", "𝌽", "𝌾", "𝌿", "𝍀", "𝍁", "𝍂", "𝍃", "𝍄", "𝍅", "𝍆", "𝍇", "𝍈", "𝍉", "𝍊", "𝍋", "𝍌", "𝍍", "𝍎", "𝍏", "𝍐", "𝍑", "𝍒", "𝍓", "𝍔", "𝍕", "𝍖"}
 
@@ -29,15 +29,16 @@ func handler(request events.APIGatewayProxyRequest) (*events.APIGatewayProxyResp
 	// now := t.Format("2006-01-02 15:04:05")
 
 	body := fmt.Sprintf("%d %s %s\n", tetragram_int, tetragram, t)
+	fmt.Println("This message will show up in the CLI console.")
 
 	return &events.APIGatewayProxyResponse{
-		StatusCode:        200,
-		Headers:           map[string]string{"Content-Type": "text/plain"},
-		Body:              body,
-		IsBase64Encoded:   false,
+		StatusCode:      200,
+		Headers:         map[string]string{"Content-Type": "text/plain"},
+		Body:            body,
+		IsBase64Encoded: false,
 	}, nil
 }
 
 func main() {
-  lambda.Start(handler)
+	lambda.Start(handler)
 }
