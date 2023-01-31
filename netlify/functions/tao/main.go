@@ -34,9 +34,9 @@ func handler(ctx context.Context, request events.APIGatewayProxyRequest) (*event
 	body := fmt.Sprintf("<html><body><h1>%s</h1>\n<h2>%s</h2>\n%s\n</body></html>", link_tet, link_num, t)
 	//fmt.Println("This message will show up in the CLI console.")
 
+	//Headers:         map[string]string{"Content-Type": "text/plain; charset=utf-8"},
 	return &events.APIGatewayProxyResponse{
 		StatusCode:      200,
-		Headers:         map[string]string{"Content-Type": "text/plain; charset=utf-8"},
 		Body:            body,
 		IsBase64Encoded: false,
 	}, nil
