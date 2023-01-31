@@ -26,11 +26,13 @@ func handler(ctx context.Context, request events.APIGatewayProxyRequest) (*event
 
 	// Have to convert bigint back to int64 to use in index
 	// Remember to add 1 here because the slice starts with position 0
-	tetragram_num := randInt.Int64() + 1
 	tetragram := tetragrams[randInt.Int64()]
-	link := fmt.Sprintf("<a href='https://terebess.hu/english/tao/Wing.html#Kap%02d'>%02d %s</a>", tetragram_num, tetragram_num, tetragram)
-	body := fmt.Sprintf("%s %s\n", link, t)
-	fmt.Println("This message will show up in the CLI console.")
+	tetragram_num := randInt.Int64() + 1
+        href := "<a href='https://terebess.hu/english/tao/Wing.html#Kap%02d'>"
+	link_tet := fmt.Sprintf("%s%s</a>", href, tetragram)
+	link_num := fmt.Sprintf("%s%0d</a>", href, tetragram_num)
+	body := fmt.Sprintf("<html><body><h1>%s</h1>\n<h2>%s</h2>\n%s\n</body></html>", link_tet, link_num, t)
+	//fmt.Println("This message will show up in the CLI console.")
 
 	return &events.APIGatewayProxyResponse{
 		StatusCode:      200,
