@@ -1,5 +1,7 @@
 github.com/aws/aws-lambda-go v1.37.0 h1:WXkQ/xhIcXZZ2P5ZBEw+bbAKeCEcb5NtiYpSwVVzIXg=
 github.com/aws/aws-lambda-go v1.37.0/go.mod h1:jwFe2KmMsHmffA1X2R09hH6lFzJQxzI8qK17ewzbQMM=
+github.com/billzajac/rltao v0.0.0-20230202024100-70a3a9aec035 h1:LaSt6IA7EZbNSHkgktinILMbMPzOM3TtWxpzVGcH62Y=
+github.com/billzajac/rltao v0.0.0-20230202024100-70a3a9aec035/go.mod h1:bnDWhAIUIjO0BEYnK5Fre/AB4LMRRDH6Mr5+qD5JeS8=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/stretchr/testify v1.7.2 h1:4jaiDzPyXQvSd7D0EjG45355tLlV3VOECpq10pLC+8s=
