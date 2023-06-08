@@ -24,6 +24,9 @@ Theme
 
 ### Hugo commands
 
+    git submodule init
+    git submodule update
+
     hugo new post/hello-beautiful/index.md
     hugo server -D
 
